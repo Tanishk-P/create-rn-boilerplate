@@ -5,8 +5,8 @@
   "bin": {
     "create-rn-boilerplate": "index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react-native", "boilerplate", "cli"],
+  "author": "Tanishk-P",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.4.1",

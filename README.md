@@ -39,13 +39,13 @@ yarn global add create-rn-boilerplate
 To create a new React Native project, simply run the following command and provide a name when prompted:
 
 ```bash
-create-rn-boilerplate
+npx create-rn-boilerplate
 ```
 
 ### Example
 
 ```bash
-create-rn-boilerplate
+npx create-rn-boilerplate
 ```
 
 You will be prompted to enter a name for your new project, e.g., `MyNewApp`.

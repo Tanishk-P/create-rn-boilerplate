@@ -1,0 +1,18 @@
+{
+  "name": "create-rn-boilerplate",
+  "version": "1.0.0",
+  "description": "A CLI to generate new React Native apps using a custom boilerplate",
+  "bin": {
+    "create-rn-boilerplate": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "degit": "^2.8.4",
+    "execa": "^9.5.2",
+    "inquirer": "^12.3.0"
+  },
+  "type": "module"
+}

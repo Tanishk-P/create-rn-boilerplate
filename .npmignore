@@ -1,0 +1,31 @@
+# Ignore node_modules (it's automatically ignored by npm)
+node_modules/
+
+# Ignore the local git configuration files
+.git/
+
+# Ignore test and other unnecessary files
+tests/
+*.test.js
+*.spec.js
+
+# Ignore files related to development environment
+*.md
+LICENSE
+*.log
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore any temporary or generated files
+*.bak
+*.swp
+*.DS_Store
+
+# Ignore the build folder (if any)
+build/
+dist/
+
+# Ignore the npm debug file
+npm-debug.log*

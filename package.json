@@ -16,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/create-rn-boilerplate.git"
+    "url": "git+https://github.com/Tanishk-P/create-rn-boilerplate.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/create-rn-boilerplate/issues"
+    "url": "https://github.com/Tanishk-P/create-rn-boilerplate/issues"
   },
-  "homepage": "https://github.com/your-username/create-rn-boilerplate#readme",
+  "homepage": "https://github.com/Tanishk-P/create-rn-boilerplate#readme",
   "type": "module"
 }

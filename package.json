@@ -14,5 +14,13 @@
     "execa": "^9.5.2",
     "inquirer": "^12.3.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/create-rn-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/create-rn-boilerplate/issues"
+  },
+  "homepage": "https://github.com/your-username/create-rn-boilerplate#readme",
   "type": "module"
 }
